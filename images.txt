@@ -1,1 +1,1 @@
-centos
+tomcat:jdk8-openjdk
