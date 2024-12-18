@@ -1,1 +1,1 @@
-alpine
+hello-world:latest
