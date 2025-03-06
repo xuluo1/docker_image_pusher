@@ -1,1 +1,2 @@
-1panel/maxkb
+grafana/grafana
+prom/prometheus
