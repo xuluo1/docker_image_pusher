@@ -1,1 +1,1 @@
-quay.io/prometheus/node-exporter
+prom/alertmanager:latest
