@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+nacos/nacos-server
